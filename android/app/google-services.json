@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819736173231",
+    "project_id": "tuparking-43853",
+    "storage_bucket": "tuparking-43853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819736173231:android:91f5427a6678d9b2f0125a",
+        "android_client_info": {
+          "package_name": "com.example.tuparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbafkRx5320UKea31_WX_lL0x9xNoaJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
